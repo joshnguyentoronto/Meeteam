@@ -110,15 +110,15 @@
 
 <p>
     <img alt="Trello" width="24px" height="24px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/trello.png" />
-    Tasks Manager - <a href="https://trello.com/b/xPWClGaB/the-exhibit" target="_blank">Trello Board</a> 
+    Tasks Manager - <a href="https://trello.com/b/wze5IkrI/meeteam" target="_blank">Trello Board</a> 
 </p>
 <p>
     <img alt="Lucid" width="24px" height="24px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/lucid.png" />
-    Database Model - <a href="https://lucid.app/lucidchart/f1cb0294-cac3-4005-bc56-06b03bd44496/edit?invitationId=inv_8aaa1e39-3596-4e43-a717-998f718ab440" target="_blank">Lucid Chart</a> 
+    Database Model - <a href="https://lucid.app/lucidchart/cf6caf5f-769c-4b77-ad17-58cab225fe41/edit?viewport_loc=-5%2C72%2C1803%2C1105%2C0_0&invitationId=inv_102f4002-5a12-4ce6-9a2b-239c7846243a" target="_blank">Lucid Chart</a> 
 </p>
 <p>
     <img alt="Figma" width="24px" height="24px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/figma.png" />
-    Wireframe and Prototype - <a href="https://www.figma.com/file/3MCP8fdtxnw1WWuRhua2A2/Project-Sharing-App?node-id=0%3A1" target="_blank">Figma + Figjam</a>
+    Wireframe and Prototype - <a href="https://www.figma.com/file/ku6Sz8q4YkkY0ONNtFt6Xx/Meeteam?node-id=0%3A1" target="_blank">Figma + Figjam</a>
 </p>
 
 
