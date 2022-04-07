@@ -1,70 +1,166 @@
-# Getting Started with Create React App
+<h1 align="center">Meeteam</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img alt="la" width="120px" src="" />
+</p>
 
-## Available Scripts
+<h3 align="center">Free & unlimited team meeting</h3>
 
-In the project directory, you can run:
+<br />
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Web link:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a href="" target="_blank">Meeteam</a>
 
-### `npm test`
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### About:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<br />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Review:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<br />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Usage:
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br />
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Languages and Tools:
 
-### Making a Progressive Web App
+<p>
+    <img alt="visualstudio" width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    Visual Studio Code
+</p>
+<p>
+    <img alt="git" width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    Version control Git
+</p>
+<p>
+    <img alt="github" width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+    GitHub
+</p>
+<p>
+    <img alt="terminal" width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    Zsh
+</p>
+<p>
+    <img alt="html" width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    HTML 5
+</p>
+<p>
+    <img alt="css" width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    CSS 3
+</p>
+<p>
+    <img alt="javascript" width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    JavaScript
+</p>
+<p>
+    <img alt="react" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    React
+</p>
+<p>
+    <img alt="nodejs" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    Node.js
+</p>
+<p>
+    <img alt="express" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+    Express
+</p>
+<p>
+    <img alt="mongodb" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+    MongoDB
+</p>
+<p>
+    <img alt="aws3" width="26px" height="26px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/aws3.png" />
+    Amazon Web Service 3
+</p>
+<p>
+    <img alt="socket.io" width="26px" height="26px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/socket.png" />
+    Socket.io
+</p>
+<p>
+    <img alt="heroku" width="26px" height="26px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/heroku.png" />
+    Heroku
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+### Technologies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<p>
+    <img alt="Trello" width="24px" height="24px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/trello.png" />
+    Tasks Manager - <a href="https://trello.com/b/xPWClGaB/the-exhibit" target="_blank">Trello Board</a> 
+</p>
+<p>
+    <img alt="Lucid" width="24px" height="24px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/lucid.png" />
+    Database Model - <a href="https://lucid.app/lucidchart/f1cb0294-cac3-4005-bc56-06b03bd44496/edit?invitationId=inv_8aaa1e39-3596-4e43-a717-998f718ab440" target="_blank">Lucid Chart</a> 
+</p>
+<p>
+    <img alt="Figma" width="24px" height="24px" src="https://github.com/joshnguyentoronto/project-sharing-app/blob/master/public/images/figma.png" />
+    Wireframe and Prototype - <a href="https://www.figma.com/file/3MCP8fdtxnw1WWuRhua2A2/Project-Sharing-App?node-id=0%3A1" target="_blank">Figma + Figjam</a>
+</p>
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br />
+
+---
+
+### User flow:
+
+<img align="center" alt="user flow diagram" src="" />
+
+<br />
+
+---
+
+### Entity Relationship Diagram:
+
+<img align="center" alt="Database ERD diagram" src="" />
+
+<br />
+
+---
+
+### Icebox:
+
+
+---
+
+### Key Learning:
+
+---
+
+### Challenges:
+
+
+---
+
+### License:
+
+Distributed under the MIT License.
+
+---
+
+### Contact:
+[Josh Nguyen](https://joshnguyentoronto.com/)\
