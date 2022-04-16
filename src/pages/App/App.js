@@ -1,6 +1,9 @@
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import { Routes, Route, Navigate, useNavigate, Link } from 'react-router-dom';
+import { useSelector } from 'react-redux';
+import { selectUser } from '../../features/auth/userSlice';
+
 import HomePage from '../HomePage/HomePage';
 import ProfilePage from '../ProfilePage/ProfilePage';
 import RoomPage from '../RoomPage/RoomPage';
@@ -12,7 +15,8 @@ import PrivacyPage from '../PrivacyPage/PrivacyPage'
 
 export default function App() {
   let navigate = useNavigate();
-  const [user, setUser] = useState(null);
+  const user = useSelector(selectUser)
+
 
 
 
