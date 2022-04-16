@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    font-family: 'Roboto', 'Segoe UI', Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+    background: url('./unsplash.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#root {
+    width: 100vw;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: transparent;
+}
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0);
+    border: 1px solid #29465b80;
+    border-radius: 100vw;
+}
+::-webkit-scrollbar-thumb {
+    background: #29465B;
+    border-radius: 100vw;
+}
